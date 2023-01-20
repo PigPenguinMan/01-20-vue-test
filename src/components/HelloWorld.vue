@@ -19,3 +19,10 @@
   <button v-on:click="increment"> 1+ </button>
 </template>
 
+<style >
+h1 {
+  font-weight: 500;
+  font-size: 2.6rem;
+  top: -10px;
+}
+
